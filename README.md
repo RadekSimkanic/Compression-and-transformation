@@ -14,3 +14,7 @@ Encoding string or list of chars to list of integers.
 Decoding list of integers to string.
 This transformation algorithm uses full ASCII stack.
 https://en.wikipedia.org/wiki/Move-to-front_transform
+
+<h3>Discrete Cosine transform (DCT)</h3>
+Encoding and decoding list of numbers. - only 1D
+https://en.wikipedia.org/wiki/Discrete_cosine_transform
