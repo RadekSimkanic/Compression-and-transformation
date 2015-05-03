@@ -6,7 +6,7 @@ https://en.wikipedia.org/wiki/Run-length_encoding
 <h2>Transformations algorithms</h2>
 
 <h3>Burrows–Wheeler transform (BWT)</h3>
-Encoding and decoding strings. Been programmed to avoid wasting too much memory - is not using the rotation string, but use the rotation vectors.
+Encoding and decoding strings or lists with own alphabets. Been programmed to avoid wasting too much memory - is not using the rotation string, but use the rotation vectors.
 https://en.wikipedia.org/wiki/Burrows%E2%80%93Wheeler_transform
 
 <h3>Move to front (MTF)</h3>
