@@ -23,3 +23,39 @@ https://en.wikipedia.org/wiki/Move-to-front_transform
 <h3>Discrete Cosine transform (DCT)</h3>
 Encoding and decoding list of numbers. - only 1D
 https://en.wikipedia.org/wiki/Discrete_cosine_transform
+
+<h2>Binary codes and functions</h2>
+
+<h3>Helper functions</h3>
+
+<h2>strBinToInt</h2>
+Binary number representation by string convert to integer. For example: '101' to 5
+
+<h2>strOctToInt<h2>
+Octet number representation by string convert to integer.
+
+<h2>strHexToInt<h2>
+Hexadecimal number representation by string convert to integer.
+
+<h2>intToBinStr<h2>
+Integer number convert to binary number representation by string.
+
+<h2>intToOctStr<h2>
+Integer number convert to octet number representation by string.
+
+<h2>intToHexStr<h2>
+Integer number convert to hexadecimal number representation by string
+
+<h2>length<h2>
+Length of binary integer number
+
+<h2>getFirstBits<h2>
+<h2>getLastBits<h2>
+<h2>getValueInPosition<h2>
+<h2>cutFirst<h2>
+<h2>cutLast<h2>
+<h2>resplitBinaryCodes<h2>
+
+<h3>Binary codes</h3>
+<h2>Fibonacci<h2>
+<h2>BCD<h2>
