@@ -1,7 +1,12 @@
 <h2>Compressions algorithms</h2>
 <h3>Run-length encoding (RLE)</h3>
-Very simple compression algorithm.
+Very simple lossless compression algorithm.
 https://en.wikipedia.org/wiki/Run-length_encoding
+
+
+<h3>Lempel–Ziv–Welch (LZW)</h3>
+Simple dictionary lossless compression algorithm.
+https://en.wikipedia.org/wiki/Lempel%E2%80%93Ziv%E2%80%93Welch
 
 <h2>Transformations algorithms</h2>
 
